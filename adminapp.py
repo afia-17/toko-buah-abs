@@ -13,7 +13,7 @@ st.set_page_config(
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 ADMIN_PASSWORD = "absadmin2024"   # Ganti sesuai kebutuhan
-DATA_FILE      = "data_pesanan.json"  # File yang sama dengan website toko
+DATA_FILE      = "https://tokobuahabsapp.streamlit.app/"  # File yang sama dengan website toko
 
 # ── CSS ────────────────────────────────────────────────────────────────────────
 st.markdown("""
