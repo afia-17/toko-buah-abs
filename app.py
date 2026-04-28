@@ -19,11 +19,11 @@ def now_wib():
     return datetime.now(WIB)
 
 # ── Constants ──────────────────────────────────────────────────────────────────
-TOKO_WA      = "6287875957722"
+TOKO_WA      = "6281212408274"
 TOKO_NAMA    = "Toko Buah ABS"
 TOKO_ALAMAT  = "Jl. Mandala Raya, RT.02/RW.02, Ciparigi, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16157"
 TOKO_JAM     = "08.00 - 21.30 (Setiap Hari)"
-TOKO_TELP    = "087875957722"
+TOKO_TELP    = "081212408274"
 MAPS_URL     = "https://maps.google.com/?q=Jl.+Mandala+Raya+RT.02+RW.02+Ciparigi+Bogor+Utara+Kota+Bogor"
 DATA_FILE    = "data_pesanan.json"
 ADMIN_PASS   = "absadmin2024"
