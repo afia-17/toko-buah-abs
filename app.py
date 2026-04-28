@@ -22,7 +22,7 @@ def now_wib():
 TOKO_WA      = "6281212408274"
 TOKO_NAMA    = "Toko Buah ABS"
 TOKO_ALAMAT  = "Jl. Mandala Raya, RT.02/RW.02, Ciparigi, Kec. Bogor Utara, Kota Bogor, Jawa Barat 16157"
-TOKO_JAM     = "08.00 - 21.30 (Setiap Hari)"
+TOKO_JAM     = "08.00 - 21.30 WIB (Setiap Hari)"
 TOKO_TELP    = "081212408274"
 MAPS_URL     = "https://maps.google.com/?q=Jl.+Mandala+Raya+RT.02+RW.02+Ciparigi+Bogor+Utara+Kota+Bogor"
 DATA_FILE    = "data_pesanan.json"
@@ -33,8 +33,6 @@ ADMIN_PASS   = "absadmin2024"
 NAMA_BANK       = "BCA"
 NOMOR_REKENING  = "1234567890"
 ATAS_NAMA       = "Toko Buah ABS"
-# Untuk QRIS: letakkan file gambar bernama "qris.png" di folder yang sama dengan streamlit_app.py
-# Jika file tidak ada, akan ditampilkan placeholder teks
 QRIS_FILE       = "qris.png"
 
 # ── Produk ─────────────────────────────────────────────────────────────────────
